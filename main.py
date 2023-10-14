@@ -1,8 +1,6 @@
 import math
 import tkinter as tk
-import form as form
 import numpy as np
-from PIL import Image, ImageDraw
 
 parameters = np.load("model/model_parameters89.14.npy", allow_pickle=True)
 
