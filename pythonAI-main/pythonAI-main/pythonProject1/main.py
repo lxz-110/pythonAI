@@ -4,7 +4,7 @@ import form as form
 import numpy as np
 from PIL import Image, ImageDraw
 
-parameters = np.load("../model_parameters89.14.npy", allow_pickle=True)
+parameters = np.load("model/model_parameters89.14.npy", allow_pickle=True)
 
 
 #神经网络
