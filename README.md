@@ -34,3 +34,4 @@
 ## 4. 参考与引用说明
 
 - 本项目借鉴了[WYPetuous/-MNIST-: 手写数字识别+MNIST数据库：Pytorch+python (github.com)](https://github.com/WYPetuous/-MNIST-)
+- *(偷偷告诉你，这其实是作者参赛用的)*
